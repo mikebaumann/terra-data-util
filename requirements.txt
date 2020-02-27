@@ -1,0 +1,3 @@
+firecloud >= 0.16.25
+nbformat
+pandas
